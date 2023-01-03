@@ -1,3 +1,6 @@
 
 https: // lconroy69.github.io / Module-2-Assignment / Module-2-Assignment_Folder/
-https: // lconroy69.github.io / Module-2-Assignment / Module-3-Assignment_Folder/
+https: // lconroy69.github.io / Module-2-Assignment / Module-3-Assignment_Folder
+
+C:\Users\lab\Module-2-Assignment\Module-3-Assignment_Folder
+browser-sync start --server --directory --files "**/*"
